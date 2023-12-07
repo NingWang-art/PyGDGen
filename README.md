@@ -1,4 +1,4 @@
-# PyGDGen - Python Gradient Descent Generator
+# PyGDGen - Python Gradient Descent Generator for Atomic Configuration
 PyGDGen, standing for Python Gradient Descent Generator, is a Python package that specializes in optimizing the configuration of clusters with diverse shapes using gradient descent techniques. This tool is adept at creating condensed configurations and allows for extensive customization of constraint boxes for various scientific and engineering applications.
 
 ## Features
