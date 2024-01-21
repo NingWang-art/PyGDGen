@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+pygdgen/__init__.py
+pygdgen.egg-info/PKG-INFO
+pygdgen.egg-info/SOURCES.txt
+pygdgen.egg-info/dependency_links.txt
+pygdgen.egg-info/requires.txt
+pygdgen.egg-info/top_level.txt
+pygdgen/core/__init__.py
+pygdgen/core/map_atomwise.py
+pygdgen/core/map_clusterwise.py
+pygdgen/utils/__init__.py
+pygdgen/utils/get.py
+pygdgen/utils/loss_func.py
