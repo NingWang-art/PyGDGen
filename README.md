@@ -28,6 +28,10 @@ cd PyGDGen
 ## Usage
 Basic usage instructions for PyGDGen can be found in the Usage section of our package documentation.
 
+## Demo
+![1&50npbc](demo/mix150_pbc.mp4)
+
+
 ## Contributing
 Contributions are warmly welcomed and highly appreciated. Please refer to our contributing guidelines for details on the code of conduct and the process for submitting pull requests.
 
