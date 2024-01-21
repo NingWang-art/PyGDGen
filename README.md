@@ -31,6 +31,7 @@ Basic usage instructions for PyGDGen can be found in the Usage section of our pa
 ## Demo
 ![1&50npbc](demo/mix150_pbc.mp4)
 
+https://github.com/NingWang-art/PyGDGen/assets/84500213/cefc0446-b0f2-474c-b539-fb7971dd31ad
 
 ## Contributing
 Contributions are warmly welcomed and highly appreciated. Please refer to our contributing guidelines for details on the code of conduct and the process for submitting pull requests.
