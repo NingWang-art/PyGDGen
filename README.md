@@ -38,4 +38,4 @@ This project is licensed under the MIT License - see the LICENSE file for more d
 Extend credits to inspirations, code snippets, etc.
 Acknowledge collaborators and significant contributors.
 Contact
-For further inquiries, feel free to contact Ning Wang.
+For further inquiries, feel free to contact NingWang - a320873529@gmail.com.
