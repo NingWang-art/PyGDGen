@@ -31,7 +31,7 @@ Basic usage instructions for PyGDGen can be found in the Usage section of our pa
 ## Demo
 
 
-https://github.com/NingWang-art/PyGDGen/assets/84500213/78d56d42-f44a-4522-a201-739cabcacd39
+https://github.com/NingWang-art/PyGDGen/assets/84500213/e3b2d4ef-b0cf-42e7-99a0-98616336e864
 
 
 
