@@ -28,22 +28,39 @@ cd PyGDGen
 ## Usage
 Basic usage instructions for PyGDGen can be found in the Usage section of our package documentation.
 
-## Demo
-Generate configuration containing three big and ten small wulff clusters in non-periodic boundary condition:
+## Demonstrations
+Clusterwise Configurations:
+
+Three Big and Ten Small Wulff Clusters (Non-Periodic Boundary):
 
 https://github.com/NingWang-art/PyGDGen/assets/84500213/733fe0cb-2096-4dfd-bbf1-b9f4c828e928
 
-Generate configuration containing one big and fifty small wulff clusters in periodic boundary condition:
+One Big and Fifty Small Wulff Clusters (Periodic Boundary):
 
 https://github.com/NingWang-art/PyGDGen/assets/84500213/00de4bb6-6cc0-4315-9283-34465903741f
 
-Generate neck configuration containing two fixed clusters and eight small clusters around them:
+Neck Configuration with Two Fixed Clusters and Eight Surrounding Small Clusters:
 
 https://github.com/NingWang-art/PyGDGen/assets/84500213/ba274155-287c-4cdb-aeb9-0f7455b89be9
 
-sixteen small clusters around the neck:
+Sixteen Small Clusters Around the Neck:
 
 https://github.com/NingWang-art/PyGDGen/assets/84500213/5f67d76d-7d03-4a88-b3ec-27bd94145eb2
+
+Atomwise Configurations:
+Eight Oblates and Four Prolates:
+
+
+https://github.com/NingWang-art/PyGDGen/assets/84500213/7f4c2133-9137-4701-a8f1-2df59482cb53
+
+
+Configurations with Rectangular and Tetrahedron Clusters:
+
+
+https://github.com/NingWang-art/PyGDGen/assets/84500213/faa42c38-710d-4ab7-a938-a95449f9b0e8
+
+
+
 
 ## Contributing
 Contributions are warmly welcomed and highly appreciated. Please refer to our contributing guidelines for details on the code of conduct and the process for submitting pull requests.
